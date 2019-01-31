@@ -1,0 +1,6 @@
+TEST NUMBER:14
+MODEL:2
+lr:0.1
+batch size:20
+shape:(350, 350)
+ERROR:EXCEPTION
