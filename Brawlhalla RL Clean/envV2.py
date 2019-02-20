@@ -100,5 +100,5 @@ while True:
     env.fullHp(1)
     done_enemy = env.is_episode_finished(0)
     if done_enemy:
-        print("nigga dead")
+        print("dead")
 """
