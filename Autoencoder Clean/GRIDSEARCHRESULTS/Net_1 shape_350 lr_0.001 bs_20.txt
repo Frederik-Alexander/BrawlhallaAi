@@ -1,6 +1,0 @@
-TEST NUMBER:2
-MODEL:1
-lr:0.001
-batch size:20
-shape:(350, 350)
-ERROR:EXCEPTION

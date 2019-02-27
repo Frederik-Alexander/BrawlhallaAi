@@ -1,9 +1,12 @@
-Entwicklung einer Künstlichen Intelligenz für virtuelle Spielumgebungen
+# Entwicklung einer Künstlichen Intelligenz für virtuelle Spielumgebungen
 
-Hier haben wir unsere wichtigsten Dateien hochgeladen.
-Die meisten unsere Kommentare sind auf Englisch geschrieben.
-Um die Programme auszuführen, fehlt es an vielen dependencies.
+Jugend Forscht Projekt 2019
+von Moritz Heine und Frederik Alexander
 
-Die Programme sind weder optimiert noch strukturell perfekt, es ging lediglich darum das sie Funktionieren.
 
-Bei Fragen einfach eine E-Mail an: frederik.t.alexander@gmail.com
+(Code und Kommentare im Code sind auf Englisch)
+### Dateien
+- Main.py - Trainingprogramm der KI
+- Run.py - Ausführung der KI
+- envV2.py - Framework
+- DQNetwork.py - Deque Netzwerk
