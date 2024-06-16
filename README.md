@@ -9,4 +9,4 @@ von Moritz Heine und Frederik Alexander
 - Main.py - Trainingprogramm der KI
 - Run.py - Ausführung der KI
 - envV2.py - Framework
-- DQNetwork.py - Deque Netzwerk
+- DQNetwork.py - DeepQ Netzwerk
